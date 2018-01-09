@@ -25,6 +25,12 @@ description: Upload and download files.
 |:-:|:-:|
 |[![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-plugin-file-transfer?branch=master)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-plugin-file-transfer)|[![Build Status](https://travis-ci.org/apache/cordova-plugin-file-transfer.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-file-transfer)|
 
+# Fork reason:
+
+**This is a fork of the deprecated https://github.com/apache/cordova-plugin-file-transfer**
+
+I just want to make the plugin installable alongside https://github.com/apache/cordova-plugin-file
+
 # cordova-plugin-file-transfer
 
 This plugin allows you to upload and download files.
